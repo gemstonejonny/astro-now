@@ -4,7 +4,7 @@
   <br/>
   <a href="https://astro.build">Astro</a> is a website build tool for the modern web &mdash;
   <br/>
-  powerful developer experience meets lightweight output.
+  powerful developer   experience meets lightweight output.
   <br/><br/>
 </p>
 
